@@ -22,10 +22,10 @@
 
 I build resilient systems for **real-world users** that survive **messy real-world conditions**, with experience in multi-agent orchestration and high-traffic web architectures.
 
-*   🎓 **Academia:** Pursuing an MSc in Philosophy & Computer Science at Universität Bayreuth, focusing on the governance and explainability of LLMs.
-*   🔭 **Current Work:** HiWi in Data Mining, engineering AI parsing agents and multi-step pipelines to track live cargo ship fleets.
-*   🚀 **Scale:** Architected and scaled an agentic AI backend serving **7,000+ users** at BIGRIT, utilizing dynamic task dispatching across 10+ integrated tools.
-*   🔍 **Observability:** Built a trace-based explainability system for enterprise RAG chatbot, pushing production-grade code that was acquired for internal deployment.
+*   **Academia:** Pursuing an MSc in Philosophy & Computer Science at Universität Bayreuth, focusing on the governance and explainability of LLMs.
+*   **Current Work:** HiWi in Data Mining, engineering AI parsing agents and multi-step pipelines to track live cargo ship fleets.
+*   **Scale:** Architected and scaled an agentic AI backend serving **7,000+ users** at BIGRIT, utilizing dynamic task dispatching across 10+ integrated tools.
+*   **Observability:** Built a trace-based explainability system for enterprise RAG chatbot, pushing production-grade code that was acquired for internal deployment.
 
 <br/>
 
@@ -39,7 +39,7 @@ I build resilient systems for **real-world users** that survive **messy real-wor
 
 ### What I Build
 
-I treat AI as a volatile software component that requires strict engineering principles and robust error handling.
+I treat AI like any other unpredictable code. You need solid guardrails and a good backup plan for when it messes up.
 
 <br/>
 
@@ -48,21 +48,21 @@ I treat AI as a volatile software component that requires strict engineering pri
     <tr>
       <td align="center" width="50%" valign="top">
         <h2>🔀 Autonomous Routing</h2>
-        <p>I build LLM routers that dynamically dispatch tasks across 10+ integrated tools. To ensure API resilience and latency optimization, I implement multi-provider orchestration with automatic fallbacks and exponential-backoff retries.</p><br/>
+        <p>I build smart routing systems that direct tasks across 10+ AI tools in real time. To keep things fast and reliable, I use multiple providers with automatic backups and smart retries, ensuring the system stays up even if an API fails.</p><br/>
       </td>
       <td align="center" width="50%" valign="top">
         <h2>🛡️ Self-Correcting Guardrails</h2>
-        <p>LLMs hallucinate. I design AI pipelines that validate outputs against target constraints and iteratively regenerate them until strict requirements are met before storage.</p><br/>
+        <p>LLMs hallucinate, we all know it. I design AI pipelines that validate outputs against target constraints and iteratively regenerate them until strict requirements are met before storage.</p><br/>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%" valign="top">
         <h2>🔍 Trace-Based Explainability</h2>
-        <p>You can't fix what you can't see. I parse raw Langfuse and OpenTelemetry execution traces into structured, deterministic explanations of an agent's failure modes, retrieval outcomes, and tool selections.</p><br/>
+        <p>You can't fix what you can't see. I parse raw Langfuse and OpenTelemetry execution traces into structured, deterministic explanations of an agent's failures, retrieval results, and tool selections.</p><br/>
       </td>
       <td align="center" width="50%" valign="top">
         <h2>⚙️ Full-Stack Deployment</h2>
-        <p>I deploy end-to-end solutions, from provisioning server infrastructure on Debian to building secure, rate-limited REST APIs and interactive frontends.</p><br/>
+        <p>I build end-to-end solutions, from provisioning server infrastructure on Debian to building secure, rate-limited REST APIs and interactive frontends.</p><br/>
       </td>
     </tr>
   </table>
