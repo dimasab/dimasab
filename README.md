@@ -150,7 +150,7 @@ I treat AI like any other unpredictable code. You need solid guardrails and a go
 
 ### Let's Connect
 
-I am open to discussing AI governance, resilient system architecture, or exciting engineering opportunities. Feel free to reach out.
+I am open to discussing AI or exciting engineering opportunities. Feel free to reach out.
 
 <div align="center">
   <a href="mailto:dimas.adika-bimawan@uni-bayreuth.de">
