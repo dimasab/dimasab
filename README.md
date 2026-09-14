@@ -20,7 +20,7 @@
 
 ---
 
-I build resilient systems for **real-world users** that survive **messy real-world conditions**, with experience in multi-agent orchestration and high-traffic web architectures.
+I build resilient systems for real-world users that survive messy, real-world conditions, with experience in multi-agent orchestration and high-traffic web architectures.
 
 *   **Academia:** Pursuing an MSc in Philosophy & Computer Science at Universität Bayreuth, focusing on the governance and explainability of LLMs.
 *   **Current Work:** HiWi in Data Mining, engineering AI parsing agents and multi-step pipelines to track live cargo ship fleets.
