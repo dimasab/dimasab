@@ -15,16 +15,14 @@
   </a>
 </div> -->
 
-<br/>
-
 <div align="center">
   <!-- Note: Replaced '&' with 'and' to ensure the animation loops perfectly -->
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Agentic+AI+and+Explainability;Full+Stack+Software+Engineering;MSc+Philosophy+and+Computer+Science;Based+in+Bayreuth,+Germany&font=Fira%20Code&center=true&width=550&height=50&color=36BCF7&vCenter=true&pause=10&size=20" alt="" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Software+Engineering;MSc+Philosophy+and+Computer+Science;Agentic+AI+and+Explainability;Based+in+Bayreuth,+Germany&font=Fira%20Code&center=true&width=550&height=50&color=36BCF7&vCenter=true&pause=10&size=20" alt="" />
 </div>
 
 ---
 
-I build resilient systems for real-world users that survive messy, real-world conditions.
+I build reliable AI systems for real-world applications.
 
 *   **Academia:** Pursuing an MSc in Philosophy & Computer Science at Universität Bayreuth, focusing on explainability of LLMs.
 *   **Current Work:** HiWi in Data Mining, engineering AI parsing agents and multi-step pipelines to track live cargo ship fleets.
