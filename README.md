@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Dimas%20Adika%20Bimawan&fontSize=50&animation=fadeIn" alt="Header Animation" />
+  <img src="./assets/pixel-wave-bottom.svg" width="100%" alt="Animated pixel wave" />
+</div>
+
+<div align="center">
+  <h1>Dimas Adika Bimawan</h1>
 </div>
 
 <div align="center">
@@ -164,5 +168,5 @@ I am open to discussing AI or exciting engineering opportunities. Feel free to r
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Animation" />
+  <img src="./assets/pixel-wave-bottom.svg" width="100%" alt="Animated pixel wave" />
 </div>
