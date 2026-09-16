@@ -146,7 +146,7 @@ I treat AI like any other unpredictable code. You need solid guardrails and a go
 | **HiWi Software Engineering** | Universität Bayreuth | Engineered multi-step GCP pipelines & AI parsing agents to process live cargo ship data |
 | **Software Engineer** | Scheppach GmbH | Delivered trace-based AI explainability system acquired for internal enterprise deployment |
 | **Full Stack Engineer** | BIGRIT | Architected resilient AI routing backend with multi-provider fallbacks, scaling to 7,000+ users |
-| **Tech SEO & Web Architecture** | Alterra, SkorLife, MPL | Architected high-performance web infrastructure handling 3.3M monthly organic sessions |
+| **Tech SEO & Web Dev** | Alterra, SkorLife, MPL | Performed web optimizations to acquire and handle 3.3M monthly organic sessions |
 
 ---
 
