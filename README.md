@@ -24,8 +24,8 @@ I build resilient systems for real-world users that survive messy, real-world co
 
 *   **Academia:** Pursuing an MSc in Philosophy & Computer Science at Universität Bayreuth, focusing on the governance and explainability of LLMs.
 *   **Current Work:** HiWi in Data Mining, engineering AI parsing agents and multi-step pipelines to track live cargo ship fleets.
-*   **Scale:** Architected and scaled an agentic AI backend serving **7,000+ users** at BIGRIT, dynamically dispatching tasks across 10+ integrated tools.
-*   **Observability:** Built a trace-based explainability system for enterprise RAG chatbot, pushing production-grade code that was acquired for internal deployment.
+*   **Scale:** Architected and scaled an agentic AI backend serving **7,000+ users**, dynamically dispatching tasks across 10+ integrated tools.
+*   **Observability:** Built a trace-based explainability system for an enterprise RAG chatbot, developed for internal deployment.
 
 <br/>
 
