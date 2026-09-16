@@ -51,7 +51,7 @@ I treat AI like any other unpredictable code. You need solid guardrails and a go
         <p>I build smart routing systems that direct tasks across 10+ AI tools in real time. To keep things fast and reliable, I use multiple providers with automatic backups and smart retries, ensuring the system stays up even if an API fails.</p><br/>
       </td>
       <td align="center" width="50%" valign="top">
-        <h2>🛡️ Self-Correcting Guardrails</h2>
+        <h2>🛡️ Output Validation & Guardrails</h2>
         <p>LLMs hallucinate, we all know it. I design AI pipelines that validate outputs against target constraints and iteratively regenerate them until strict requirements are met before storage.</p><br/>
       </td>
     </tr>
