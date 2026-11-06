@@ -41,7 +41,7 @@ I build reliable AI systems for real-world applications.
 
 ### What I Build
 
-I treat AI like any other unpredictable code. You need solid guardrails and a good backup plan for when it messes up.
+I treat AI like any other unpredictable code. It needs solid guardrails and a good backup plan for when it messes up.
 
 <br/>
 
